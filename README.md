@@ -1,4 +1,4 @@
-# Uber-Lyft-Cab-prices
+# Loan Eligibility predication
 Dataset :: [Loan Prediction Problem Dataset](https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset "Loan Prediction Problem Dataset")
 
 * Dataset :: data contains diffrent attributes like gender, married, education, income, self employed, loan amount etc.
